@@ -1,0 +1,16 @@
+body{
+    
+    background: linear-gradient(to bottom, #ff6600, #ffcc00);
+}
+
+.formulario{
+    box-shadow: black 50px;
+    padding: 5px;
+    text-align: center;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 50px;
+    background-color: #cc931f;
+} 
